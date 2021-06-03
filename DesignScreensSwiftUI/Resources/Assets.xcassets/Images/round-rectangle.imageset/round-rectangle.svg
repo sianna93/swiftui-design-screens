@@ -1,0 +1,7 @@
+<svg id="Componente_1_1" data-name="Componente 1 – 1" xmlns="http://www.w3.org/2000/svg" width="428" height="216" viewBox="0 0 428 216">
+  <g id="Rectángulo_1" data-name="Rectángulo 1" stroke="#707070" stroke-width="1">
+    <path d="M0,0H428a0,0,0,0,1,0,0V176a40,40,0,0,1-40,40H40A40,40,0,0,1,0,176V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M1,.5H427a.5.5,0,0,1,.5.5V176A39.5,39.5,0,0,1,388,215.5H40A39.5,39.5,0,0,1,.5,176V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+  </g>
+</svg>
+
